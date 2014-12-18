@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CrashlyticsForAndroidWear</string>
+    <string name="button_crashtest">crash</string>
+    <string name="button_exceptiontest">Exception</string>
+    <string name="button_message">message</string>
+</resources>
